@@ -6,3 +6,6 @@
 #bacground-color{
     background-color: greenyellow; grid-auto-flow: dense;
 }
+img{
+    position: right ; align-items: right;
+}
