@@ -46,3 +46,6 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+#right-padding{
+    padding-right: 25px;
+}
